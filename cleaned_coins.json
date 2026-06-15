@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "btc",
+    "price": 63697
+  },
+  {
+    "name": "PAX Gold",
+    "symbol": "paxg",
+    "price": 4219.4
+  },
+  {
+    "name": "Tether Gold",
+    "symbol": "xaut",
+    "price": 4209.09
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "eth",
+    "price": 1661.44
+  }
+]
